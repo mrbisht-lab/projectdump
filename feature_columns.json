@@ -1,0 +1,20 @@
+[
+  "log_size_mb",
+  "age_days",
+  "unused_days",
+  "is_cache",
+  "is_temp",
+  "is_log",
+  "is_hidden",
+  "is_protected",
+  "is_user_data",
+  "ext_archive",
+  "ext_code_data",
+  "ext_disk_image",
+  "ext_document",
+  "ext_log",
+  "ext_media",
+  "ext_none",
+  "ext_other",
+  "ext_temp_junk"
+]

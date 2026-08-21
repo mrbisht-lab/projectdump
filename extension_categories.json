@@ -1,0 +1,55 @@
+{
+  "archive": [
+    ".7z",
+    ".gz",
+    ".pack",
+    ".rar",
+    ".tar",
+    ".zip"
+  ],
+  "media": [
+    ".avi",
+    ".flac",
+    ".jpg",
+    ".mkv",
+    ".mov",
+    ".mp3",
+    ".mp4",
+    ".png"
+  ],
+  "document": [
+    ".csv",
+    ".docx",
+    ".pdf",
+    ".pptx",
+    ".txt",
+    ".xlsx"
+  ],
+  "disk_image": [
+    ".img",
+    ".iso",
+    ".vdi",
+    ".vmdk"
+  ],
+  "temp_junk": [
+    ".bak",
+    ".core",
+    ".crash",
+    ".old",
+    ".part",
+    ".swp",
+    ".tmp"
+  ],
+  "log": [
+    ".log"
+  ],
+  "code_data": [
+    ".bin",
+    ".conf",
+    ".deb",
+    ".js",
+    ".pyc",
+    ".so",
+    ".whl"
+  ]
+}
